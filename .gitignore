@@ -2,6 +2,6 @@
 .mvn　　　　
 .iml
 mvnw
-mvnw.cmd*.log
+*.log
 *.temp
 /target
